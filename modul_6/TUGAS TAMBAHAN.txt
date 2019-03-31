@@ -1,0 +1,11 @@
+6) Buat 1 buah soal beserta dengan jawabannya yang menggunakan 2 buah kondisi pada klausa "WHERE"!
+
+7) Buat 1 buah soal beserta dengan jawabannya yang menggunakan 3 buah kondisi pada klausa "WHERE"!
+
+8) Buat 1 buah soal beserta dengan jawabannya yang menggunakan klausa "ORDER", "LIMIT", dan "OFFSET"!
+
+9) Buat 1 buah soal beserta dengan jawabannya yang menggunakan pencarian string dan pencarian NULL!
+
+10) Buat 1 buah soal beserta dengan jawabannya yang menggunakan pencarian string, pencarian NULL, serta menggunakan klausa "ORDER", "LIMIT", dan "OFFSET"!
+
+NOTE : "YANG DIKIRIM LAPORAN -- SOAL YANG DIBUAT BESERTA SCREENSHOOT QUERY DAN HASIL --"
