@@ -1,0 +1,1 @@
+Buatlah 5 buah soal dan jawaban dengan versi Anda sendiri yang menggunakan klausa "JOIN", 4 buah kondisi pada klausa "WHERE" serta menggunakan klausa "ORDER"
